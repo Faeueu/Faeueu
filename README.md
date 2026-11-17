@@ -6,6 +6,8 @@
 <img src="./cards/activity.svg" width="100%" alt="Streaks, dias ativos e contribuições por mês" /><br>
 <img src="./cards/title-projetos.svg" width="100%" alt="ls projetos/" /><br>
 <!-- PROJECTS:START -->
+<a href="https://github.com/Faeueu/busca_de_dados"><img src="./cards/repo-busca_de_dados.svg" width="33.333%" alt="busca_de_dados" /></a><a href="https://github.com/Faeueu/countingSort"><img src="./cards/repo-countingSort.svg" width="33.333%" alt="countingSort" /></a><a href="https://github.com/Faeueu/linkedList"><img src="./cards/repo-linkedList.svg" width="33.333%" alt="linkedList" /></a><br>
+<a href="https://github.com/Faeueu/projeto1_cinema"><img src="./cards/repo-projeto1_cinema.svg" width="33.333%" alt="projeto1_cinema" /></a><a href="https://github.com/Faeueu/reajuste_salarial.cpp"><img src="./cards/repo-reajuste_salarial.cpp.svg" width="33.333%" alt="reajuste_salarial.cpp" /></a><a href="https://github.com/Faeueu/ProjetoVendaDePassagem"><img src="./cards/repo-ProjetoVendaDePassagem.svg" width="33.333%" alt="ProjetoVendaDePassagem" /></a>
 <!-- PROJECTS:END -->
 <br>
 <img src="./cards/title-links.svg" width="100%" alt="links" />
