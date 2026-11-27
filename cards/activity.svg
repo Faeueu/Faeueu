@@ -23,7 +23,7 @@
 <text x="440.0" y="22" text-anchor="middle" fill="#8b949e" font-size="12">Faeueu@github: ~$ ./stats.sh</text>
 <g class="pop" style="animation-delay:0.10s"><rect x="36.0" y="58" width="261.3" height="84" rx="9" fill="#0d1117" stroke="#30363d"/>
 <text x="54.0" y="84.0" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">streak atual</text>
-<text x="54.0" y="122.0" fill="#39d353" font-size="34" font-weight="700" text-anchor="start">4</text>
+<text x="54.0" y="122.0" fill="#39d353" font-size="34" font-weight="700" text-anchor="start">5</text>
 <text x="84.4" y="122.0" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">dias</text>
 </g>
 <g class="pop" style="animation-delay:0.17s"><rect x="309.3" y="58" width="261.3" height="84" rx="9" fill="#0d1117" stroke="#30363d"/>
@@ -33,13 +33,13 @@
 </g>
 <g class="pop" style="animation-delay:0.24s"><rect x="582.7" y="58" width="261.3" height="84" rx="9" fill="#0d1117" stroke="#30363d"/>
 <text x="600.7" y="84.0" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">contribuições</text>
-<text x="600.7" y="122.0" fill="#39d353" font-size="34" font-weight="700" text-anchor="start">930</text>
+<text x="600.7" y="122.0" fill="#39d353" font-size="34" font-weight="700" text-anchor="start">939</text>
 <text x="671.9" y="122.0" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">no ano</text>
 </g>
 <g class="pop" style="animation-delay:0.31s"><rect x="36.0" y="154" width="261.3" height="84" rx="9" fill="#0d1117" stroke="#30363d"/>
 <text x="54.0" y="180.0" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">dias ativos</text>
-<text x="54.0" y="218.0" fill="#39d353" font-size="34" font-weight="700" text-anchor="start">94</text>
-<text x="104.8" y="218.0" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">de 369</text>
+<text x="54.0" y="218.0" fill="#39d353" font-size="34" font-weight="700" text-anchor="start">95</text>
+<text x="104.8" y="218.0" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">de 370</text>
 </g>
 <g class="pop" style="animation-delay:0.38s"><rect x="309.3" y="154" width="261.3" height="84" rx="9" fill="#0d1117" stroke="#30363d"/>
 <text x="327.3" y="180.0" fill="#8b949e" font-size="12" font-weight="400" text-anchor="start">melhor dia</text>
@@ -61,35 +61,35 @@
 <rect class="gy" style="animation-delay:0.40s" x="178.7" y="387.0" width="51.3" height="3.0" rx="3" fill="#39d353" opacity="0.50"/>
 <text class="fade" style="animation-delay:1.00s" x="204.3" y="381.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">0</text>
 <text x="204.3" y="407.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">fev</text>
-<rect class="gy" style="animation-delay:0.45s" x="246.0" y="373.6" width="51.3" height="16.4" rx="3" fill="#39d353" opacity="0.60"/>
-<text class="fade" style="animation-delay:1.05s" x="271.7" y="367.6" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">66</text>
+<rect class="gy" style="animation-delay:0.45s" x="246.0" y="374.0" width="51.3" height="16.0" rx="3" fill="#39d353" opacity="0.60"/>
+<text class="fade" style="animation-delay:1.05s" x="271.7" y="368.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">66</text>
 <text x="271.7" y="407.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">mar</text>
 <rect class="gy" style="animation-delay:0.50s" x="313.3" y="387.0" width="51.3" height="3.0" rx="3" fill="#39d353" opacity="0.50"/>
 <text class="fade" style="animation-delay:1.10s" x="339.0" y="381.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">3</text>
 <text x="339.0" y="407.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">abr</text>
-<rect class="gy" style="animation-delay:0.55s" x="380.7" y="385.3" width="51.3" height="4.7" rx="3" fill="#39d353" opacity="0.53"/>
-<text class="fade" style="animation-delay:1.15s" x="406.3" y="379.3" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">19</text>
+<rect class="gy" style="animation-delay:0.55s" x="380.7" y="385.4" width="51.3" height="4.6" rx="3" fill="#39d353" opacity="0.53"/>
+<text class="fade" style="animation-delay:1.15s" x="406.3" y="379.4" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">19</text>
 <text x="406.3" y="407.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">mai</text>
 <rect class="gy" style="animation-delay:0.60s" x="448.0" y="387.0" width="51.3" height="3.0" rx="3" fill="#39d353" opacity="0.50"/>
 <text class="fade" style="animation-delay:1.20s" x="473.7" y="381.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">0</text>
 <text x="473.7" y="407.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">jun</text>
-<rect class="gy" style="animation-delay:0.65s" x="515.3" y="372.9" width="51.3" height="17.1" rx="3" fill="#39d353" opacity="0.61"/>
-<text class="fade" style="animation-delay:1.25s" x="541.0" y="366.9" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">69</text>
+<rect class="gy" style="animation-delay:0.65s" x="515.3" y="373.3" width="51.3" height="16.7" rx="3" fill="#39d353" opacity="0.60"/>
+<text class="fade" style="animation-delay:1.25s" x="541.0" y="367.3" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">69</text>
 <text x="541.0" y="407.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">jul</text>
-<rect class="gy" style="animation-delay:0.70s" x="582.7" y="356.2" width="51.3" height="33.8" rx="3" fill="#39d353" opacity="0.71"/>
-<text class="fade" style="animation-delay:1.30s" x="608.3" y="350.2" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">136</text>
+<rect class="gy" style="animation-delay:0.70s" x="582.7" y="357.1" width="51.3" height="32.9" rx="3" fill="#39d353" opacity="0.71"/>
+<text class="fade" style="animation-delay:1.30s" x="608.3" y="351.1" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">136</text>
 <text x="608.3" y="407.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">ago</text>
-<rect class="gy" style="animation-delay:0.75s" x="650.0" y="354.7" width="51.3" height="35.3" rx="3" fill="#39d353" opacity="0.72"/>
-<text class="fade" style="animation-delay:1.35s" x="675.7" y="348.7" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">142</text>
+<rect class="gy" style="animation-delay:0.75s" x="650.0" y="355.7" width="51.3" height="34.3" rx="3" fill="#39d353" opacity="0.71"/>
+<text class="fade" style="animation-delay:1.35s" x="675.7" y="349.7" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">142</text>
 <text x="675.7" y="407.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">set</text>
-<rect class="gy" style="animation-delay:0.80s" x="717.3" y="347.0" width="51.3" height="43.0" rx="3" fill="#39d353" opacity="0.77"/>
-<text class="fade" style="animation-delay:1.40s" x="743.0" y="341.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">173</text>
+<rect class="gy" style="animation-delay:0.80s" x="717.3" y="348.2" width="51.3" height="41.8" rx="3" fill="#39d353" opacity="0.76"/>
+<text class="fade" style="animation-delay:1.40s" x="743.0" y="342.2" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">173</text>
 <text x="743.0" y="407.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">out</text>
 <rect class="gy" style="animation-delay:0.85s" x="784.7" y="310.0" width="51.3" height="80.0" rx="3" fill="#39d353" opacity="1.00"/>
-<text class="fade" style="animation-delay:1.45s" x="810.3" y="304.0" fill="#c9d1d9" font-size="11" font-weight="700" text-anchor="middle">322</text>
+<text class="fade" style="animation-delay:1.45s" x="810.3" y="304.0" fill="#c9d1d9" font-size="11" font-weight="700" text-anchor="middle">331</text>
 <text x="810.3" y="407.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="middle">nov</text>
 <line x1="36" y1="418" x2="844" y2="418" stroke="#30363d"/>
 <text x="36" y="442" font-size="14"><tspan fill="#7ee787" font-weight="600">Faeueu@github</tspan><tspan fill="#8b949e"> ~ </tspan><tspan fill="#c9d1d9">$ </tspan><tspan class="cur"> _</tspan></text>
-<text x="844.0" y="442.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="end">atualizado em 26/11/2026 12:57 (BRT)</text>
+<text x="844.0" y="442.0" fill="#8b949e" font-size="11" font-weight="400" text-anchor="end">atualizado em 27/11/2026 12:46 (BRT)</text>
 </g>
 </svg>
